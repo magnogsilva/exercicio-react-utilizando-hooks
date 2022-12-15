@@ -25,7 +25,7 @@ function App() {
         profissao='Estudante Softex'
         />
         <div>
-          <p>Você clicou {number} vezes.</p>
+          <p>Você clicou {number} vez(es).</p>
           <button onClick={() => setNumber(number + 1)}>
             Click aqui
           </button>
